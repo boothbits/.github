@@ -3,24 +3,29 @@ name: 🐛 Bug Report
 about: Bugs, missing documentation, or unexpected behavior 🤔.
 ---
 
-<!--
+### Description
+<!-- A clear and concise description of what the bug is. -->
 
-* Fill out this template with all the relevant information, so we can
-  understand what's going on and fix the issue. We appreciate bugs filed and PRs
-  submitted!
+### Steps to Reproduce
+<!-- Steps to reproduce the behavior: -->
+<!-- 1. Go to '...' -->
+<!-- 2. Click on '....' -->
+<!-- 3. Scroll down to '....' -->
+<!-- 4. See error -->
 
--->
+### Expected Behavior
+<!-- A clear and concise description of what you expected to happen. -->
 
-### Relevant code
+### Actual Behavior
+<!-- A clear and concise description of what actually happens. -->
 
-```js
-const your = code => here;
-```
+### Screenshots
+<!-- If applicable, add screenshots to help explain your problem. -->
 
-### What was expected to happen?
+### Environment
+ <!-- - OS: [e.g. Windows, MacOS, Linux] -->
+ <!-- - Browser [e.g. Chrome, Safari] -->
+ <!-- - Version [e.g. 22] -->
 
-<!-- Describe why the current behavior is a problem -->
-
-### Reproduction
-
-<!-- A set of steps to follow in order to reproduce the issue you encountered -->
+### Additional Context
+<!-- Add any other context about the problem here, such as log files, error messages, or stack traces. -->
